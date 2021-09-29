@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: linear-gradient( rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2) ), Monet-La-Corniche-Monaco.jpg
+    image: "linear-gradient( rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2) ), Monet-La-Corniche-Monaco.jpg"
     image_parallax: true
     image_position: center
     image_size: cover

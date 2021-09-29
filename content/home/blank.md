@@ -19,7 +19,6 @@ design:
   columns: "1"
   background:
     image: Monet-La-Corniche-Monaco.jpg
-    image_darken: 1.5
     image_parallax: true
     image_position: center
     image_size: cover
